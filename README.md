@@ -36,6 +36,10 @@ The system takes a text prompt and generates realistic building designs.
 4. Run all cells  
 
 ---
+## Dataset Setup
 
-## 📁 Dataset
-Place your dataset in Google Drive:
+Download dataset:
+https://www.kaggle.com/datasets/wwymak/architecture-dataset
+
+Place it in:
+/content/drive/MyDrive/arcDataset

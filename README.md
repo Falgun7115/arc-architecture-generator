@@ -43,3 +43,28 @@ https://www.kaggle.com/datasets/wwymak/architecture-dataset
 
 Place it in:
 /content/drive/MyDrive/arcDataset
+
+
+
+## ⚠️ Limitations
+
+The generated images are slightly blurry due to:
+
+- Low image resolution (64×64)
+- Limited training epochs
+- Use of basic GAN architecture (DCGAN)
+- Limited dataset size
+
+---
+
+## 🔧 Future Improvements
+
+- Use higher resolution (128×128 or 256×256)
+- Train for more epochs
+- Use advanced models (StyleGAN / Diffusion Models)
+- Improve dataset quality
+- Increase CLIP guidance strength
+
+## OUTPUT
+
+<img width="387" height="393" alt="Screenshot 2026-04-05 at 2 21 03 PM" src="https://github.com/user-attachments/assets/6d0253f3-9ec8-4e93-ba1e-9c64ce673fe1" />
